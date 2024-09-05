@@ -1,0 +1,32 @@
+
+
+body
+{
+	background-color:green;
+    }
+	input,button
+	{
+		width:500px;
+		padding:20px 10px;
+		border-radius:10px;
+		border:none;
+		
+	}
+	
+	submit
+	{ 
+		background-color:red;
+		color:black;
+		width:165px;
+		
+	}	
+	 
+	div{
+		width:100px;
+		height:50xp;
+		font-size:1.5rem;
+		display:inline-block;
+		
+	}
+
+
